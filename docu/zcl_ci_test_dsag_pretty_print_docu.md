@@ -8,5 +8,5 @@ This class checks if the pretty print was applied to the source code.
 ## Deutsche Version
 
 ### MEANING
-Die Klasse prüft, ob der Pretty Printer auf dne Source Code angewendet wurde.
+Die Klasse prüft, ob der Pretty Printer auf den Source Code angewendet wurde.
 
